@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,KAAK;CACpB;;AAED,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,KAAK;CACpB;;AAED,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,gBAAgB;EACvB,UAAU,EAAE,IAAI;CACnB;;AAED,AAAA,OAAO,CAAC;EACJ,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,IAAI;CACnB;;AAED,AAAA,QAAQ,CAAC;EACL,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../scss/Aktualnosci.scss"
+    ],
+    "names": [],
+    "file": "Aktualnosci.css"
+}

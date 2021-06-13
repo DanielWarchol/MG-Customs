@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Slab', serif;
+}
+
+#header {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  background-image: url("/img/MG Car.jpg");
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar {
+  padding: 10px 0;
+}
+
+.navbar-brand img {
+  height: 70px;
+}
+
+.navbar-dark {
+  color: white !important;
+}
+
+.fa-bars {
+  color: white !important;
+}
+
+.navbar-toggler {
+  outline: none !important;
+  border: 0 !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: darkgray !important;
+}
+
+.title-h1-1 {
+  color: red;
+}
+/*# sourceMappingURL=Navbar.css.map */
