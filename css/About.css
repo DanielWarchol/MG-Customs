@@ -12,6 +12,7 @@
   padding: var(--hl) 0;
   height: auto;
   background-color: white;
+  margin-top: 100px;
 }
 
 @media (orientation: landscape) {
