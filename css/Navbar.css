@@ -9,6 +9,10 @@
   background-color: black;
 }
 
+.navbar-brand {
+  color: white !important;
+}
+
 .navbar-brand img {
   height: 70px;
 }

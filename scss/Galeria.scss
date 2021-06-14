@@ -1,10 +1,23 @@
+.gallery2 {
+    margin: 10px;
+}
 
+.gallery2 img {
+    transition: 1s;
+    padding: 15px;
+   
+}
+
+.gallery2 img:hover {
+    filter: grayscale(100%);
+    transform: scale(0.9);
+}
 
 //  Fotel.html 
 
 .galeria-section-1 {
     background-color: rgb(240, 240, 240);
-    height: auto;
+    height: 89vh;
 }
 
 .galeria-section-1 img {
@@ -14,8 +27,3 @@
 }
 
 // Lakier.html
-
-.galeria-header .lakier {
-    height: 450px;
-    margin-left: auto;
-}
